@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         objectList.add(new Advertise(R.drawable.ad_logo));
         objectList.add(new Movie(R.drawable.three_idiots, "3 Idiots", "Drama/Bollywood"));
         objectList.add(new Movie(R.drawable.life_of_pi, "Life of Pi", "Drama/Fantasy"));
-        objectList.add(new Movie(R.drawable.b_h_s, "Big Hero 6", "Drama/Bollywood"));
+        objectList.add(new Movie(R.drawable.b_h_s, "Big Hero 6", " Science Fiction/Action"));
         objectList.add(new Advertise(R.drawable.ad_logo));
         objectList.add(new Movie(R.drawable.three_idiots, "3 Idiots", "Drama/Bollywood"));
         objectList.add(new Movie(R.drawable.life_of_pi, "Life of Pi", "Drama/Fantasy"));
