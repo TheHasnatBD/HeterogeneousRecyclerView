@@ -1,2 +1,2 @@
-# Heteregenous RecyclerView
-Heteregenous RecyclerView - Android (Java)
+# Heteregeneous RecyclerView
+Heteregeneous RecyclerView - Android (Java)
